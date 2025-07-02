@@ -16,6 +16,8 @@
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
+              // "public/favicon.ico",
+              // "public/task-management-logo.png",
               {
                 "glob": "**/*",
                 "input": "public"
